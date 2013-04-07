@@ -1,1 +1,2 @@
-Hello Git!
+﻿Hello Git!
+2013年4月7日 08:51:55
